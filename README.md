@@ -1,0 +1,2 @@
+# Brainsymbol-interpreter
+TrivialBrainfuckSubstitution("!","@","#","$","%","^","&amp;","*")
